@@ -28,10 +28,10 @@ O LED pisca em um padrão que representa "SOS" (três curtos, três longos, trê
 ---
 
 ### Preview  
-![LED SOS Setup](projeto02.jpg)
+- [LED SOS Setup](projeto02.jpg)
 
 ### Código-fonte  
-Veja o arquivo [projeto02_sos_led.ino](projeto02_sos_led.ino)
+- Veja o arquivo [projeto02_sos_led.ino](projeto02_sos_led.ino)
 
 ### Demonstração (vídeo)  
-[https://youtu.be/EhnPLhQSbWk](https://youtu.be/EhnPLhQSbWk)
+- [https://youtu.be/EhnPLhQSbWk](https://youtu.be/EhnPLhQSbWk)
