@@ -7,7 +7,7 @@ This project simulates an emergency SOS signal using a blinking LED on the Ardui
 ### Components
 - 1x Arduino Uno  
 - 1x LED (red)  
-- 1x 220Ω resistor  
+- 1x 150Ω resistor  
 - 1x Push-button  
 - 1x 10kΩ resistor (pull-down)  
 - Jumper wires  
@@ -30,7 +30,7 @@ Este projeto simula um sinal de emergência SOS utilizando um LED piscando na pl
 ### Componentes
 - 1x Arduino Uno  
 - 1x LED (vermelho)  
-- 1x Resistor de 220Ω  
+- 1x Resistor de 150Ω  
 - 1x Push-button  
 - 1x Resistor de 10kΩ (pull-down)  
 - Jumpers  
@@ -47,10 +47,10 @@ Ao pressionar o botão, o LED pisca rapidamente três vezes (S), depois lentamen
 ---
 
 ### Circuit image:  
-![projeto03.jpg](projeto03.jpg)
+- [projeto03.jpg](projeto03.jpg)
 
 ###  Source Code / Código-fonte  
 - [projeto03_sos_botao.ino](projeto03_sos_botao.ino)
 
 ###  Video demonstration / Demonstração em vídeo  
-- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)]
+- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)
