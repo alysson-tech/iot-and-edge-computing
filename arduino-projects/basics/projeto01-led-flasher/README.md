@@ -7,7 +7,7 @@ This is a basic Arduino project to flash a single LED. It's often the first step
 **Components**  
 - Arduino UNO  
 - 1 LED (red)  
-- 1 Resistor (220Ω – 330Ω)  
+- 1 Resistor (150Ω)  
 - Breadboard and jumper wires  
 
 **How it works**  
@@ -19,7 +19,7 @@ Este é um projeto básico de Arduino para piscar um único LED. Costuma ser o p
 **Componentes**  
 - Arduino UNO  
 - 1 LED (vermelho)  
-- 1 Resistor (220Ω – 330Ω)  
+- 1 Resistor (150Ω)  
 - Protoboard e jumpers  
 
 **Como funciona**  
@@ -28,10 +28,10 @@ O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um 
 ---
 
 ### Preview  
-![LED Flasher Setup](projeto01.jpg)
+[LED Flasher Setup](projeto01.jpg)
 
 ### Source Code | Código-fonte  
-🔗 [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
+[projeto01_led_flasher.ino](projeto01_led_flasher.ino)
 
 ### Demonstration | Demonstração  
-🔗 [Watch on YouTube](https://youtu.be/0FgIq34k_Ug)
+[Watch on YouTube](https://youtu.be/0FgIq34k_Ug)
