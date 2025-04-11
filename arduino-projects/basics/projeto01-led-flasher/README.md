@@ -27,11 +27,11 @@ O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um 
 
 ---
 
-### 📷 Preview  
+### Preview  
 ![LED Flasher Setup](projeto01.jpg)
 
-### 🧠 Source Code | Código-fonte  
+### Source Code | Código-fonte  
 🔗 [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
 
-### 🎥 Demonstration | Demonstração  
+### Demonstration | Demonstração  
 🔗 [Watch on YouTube](https://youtu.be/0FgIq34k_Ug)
