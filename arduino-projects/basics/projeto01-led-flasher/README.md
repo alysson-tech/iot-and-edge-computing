@@ -27,8 +27,8 @@ O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um 
 
 ---
 
-### Preview  
-- ![projeto01.jpg](https://github.com/alysson-tech/iot-and-edge-computing/raw/main/arduino-projects/basics/projeto01-led-flasher/projeto01.jpg)
+### Preview
+- ![Preview do Projeto 01](projeto01.jpg)
 
 ### Source Code | Código-fonte  
 - [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
