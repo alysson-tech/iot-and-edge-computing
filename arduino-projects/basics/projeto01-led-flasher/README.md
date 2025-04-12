@@ -13,6 +13,8 @@ This is a basic Arduino project to flash a single LED. It's often the first step
 **How it works**  
 The code uses the `digitalWrite()` function to turn the LED on and off in a loop, creating a flashing effect. It’s a foundational project to test your board and understand pin logic.
 
+> To see the physical setup of the circuit, click the link or watch the video below.
+
 **PORTUGUÊS**  
 Este é um projeto básico de Arduino para piscar um único LED. Costuma ser o primeiro passo para entender como funcionam as saídas digitais nos microcontroladores.
 
@@ -25,10 +27,10 @@ Este é um projeto básico de Arduino para piscar um único LED. Costuma ser o p
 **Como funciona**  
 O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um loop, criando o efeito de piscar. É um projeto fundamental para testar sua placa e entender a lógica dos pinos digitais.
 
+> Para ver a montagem física do circuito, clique no link ou assista ao vídeo abaixo.  
 ---
-### Preview
+### Preview | Pré visualização
 - [Visual do circuito (abrir imagem)](projeto_01.png)
-  Para ver a montagem física do circuito, clique no link acima ou assista ao vídeo abaixo.
 
 ### Source Code | Código-fonte  
 - [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
