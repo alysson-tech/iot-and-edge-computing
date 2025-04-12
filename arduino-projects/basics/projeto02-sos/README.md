@@ -13,6 +13,9 @@ This project simulates an SOS signal in Morse code using a single LED connected 
 **How it works**  
 The LED blinks a pattern representing "SOS" (three short, three long, three short) in Morse code. Timings are controlled via the `delay()` function to reproduce the signal accurately.
 
+> To see the physical setup of the circuit, click the link or watch the video below.
+
+
 **PORTUGUÊS**  
 Este projeto simula um sinal de SOS em código Morse usando um único LED conectado ao Arduino. Ele reforça o controle sobre saídas digitais e introduz a lógica de temporização com base nos padrões de ponto e traço do código Morse.
 
@@ -25,10 +28,13 @@ Este projeto simula um sinal de SOS em código Morse usando um único LED conect
 **Como funciona**  
 O LED pisca em um padrão que representa "SOS" (três curtos, três longos, três curtos) em código Morse. Os tempos de `delay()` são ajustados para simular pontos e traços corretamente.
 
+> Para ver a montagem física do circuito, clique no link ou assista ao vídeo abaixo.  
 ---
+### Preview | Pré visualização
+- [Visual do circuito (abrir imagem)](projeto02.png)
 
-### Código-fonte  
-- Veja o arquivo [projeto02_sos_led.ino](projeto02_sos_led.ino)
+### Source Code | Código-fonte  
+- [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
 
-### Demonstração (vídeo)  
-- [https://youtu.be/EhnPLhQSbWk](https://youtu.be/EhnPLhQSbWk)
+### Demonstration | Demonstração  
+- [Watch on YouTube](https://youtu.be/0FgIq34k_Ug)
