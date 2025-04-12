@@ -33,8 +33,10 @@ O LED pisca em um padrão que representa "SOS" (três curtos, três longos, trê
 ### Preview | Pré visualização
 - [Visual do circuito (abrir imagem)](projeto02.png)
 
-### Source Code | Código-fonte  
-- [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
+### Source Code | Código-fonte
 
-### Demonstration | Demonstração  
-- [Watch on YouTube](https://youtu.be/0FgIq34k_Ug)
+- [projeto02_sos_led.ino](projeto02_sos_led.ino)
+
+### Demonstration | Demonstração
+
+- [Watch on YouTube](https://youtu.be/EhnPLhQSbWk)
