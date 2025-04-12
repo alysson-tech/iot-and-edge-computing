@@ -26,6 +26,9 @@ Este é um projeto básico de Arduino para piscar um único LED. Costuma ser o p
 O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um loop, criando o efeito de piscar. É um projeto fundamental para testar sua placa e entender a lógica dos pinos digitais.
 
 ---
+### Preview
+- [Visual do circuito (abrir imagem)](projeto_01.png)
+  Para ver a montagem física do circuito, clique no link acima ou assista ao vídeo abaixo.
 
 ### Source Code | Código-fonte  
 - [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
