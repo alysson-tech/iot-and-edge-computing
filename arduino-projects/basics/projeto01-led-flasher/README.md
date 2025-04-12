@@ -27,11 +27,6 @@ O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um 
 
 ---
 
-### Preview
-- <p align="center">
-  <img src="projeto_01.png" alt="Visual do circuito" width="500"/>
-</p>
-
 ### Source Code | Código-fonte  
 - [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
 
