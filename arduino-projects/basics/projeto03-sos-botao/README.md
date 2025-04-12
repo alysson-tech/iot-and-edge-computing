@@ -45,10 +45,6 @@ Este projeto simula um sinal de emergência SOS utilizando um LED piscando na pl
 Ao pressionar o botão, o LED pisca rapidamente três vezes (S), depois lentamente três vezes (O), e novamente rapidamente três vezes (S). O padrão é repetido a cada novo toque no botão.
 
 ---
-
-### Circuit image:  
-- [projeto03.jpg](projeto03.jpg)
-
 ###  Source Code / Código-fonte  
 - [projeto03_sos_botao.ino](projeto03_sos_botao.ino)
 
