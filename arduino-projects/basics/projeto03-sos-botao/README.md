@@ -21,7 +21,8 @@ This project simulates an emergency SOS signal using a blinking LED on the Ardui
 ### How it works
 When the button is pressed, the LED blinks quickly three times (S), then slowly three times (O), and quickly again three times (S). The pattern is repeated with each button press.
 
----
+> To see the physical setup of the circuit, click the link or watch the video below.
+
 
 ## PORTUGUÊS
 
@@ -44,7 +45,12 @@ Este projeto simula um sinal de emergência SOS utilizando um LED piscando na pl
 ### Como funciona
 Ao pressionar o botão, o LED pisca rapidamente três vezes (S), depois lentamente três vezes (O), e novamente rapidamente três vezes (S). O padrão é repetido a cada novo toque no botão.
 
+> Para ver a montagem física do circuito, clique no link ou assista ao vídeo abaixo.
+  
 ---
+### Preview | Pré visualização
+- [Visual do circuito (abrir imagem)](projeto03.png)
+
 ###  Source Code / Código-fonte  
 - [projeto03_sos_botao.ino](projeto03_sos_botao.ino)
 
