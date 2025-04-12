@@ -10,7 +10,7 @@ Inclui tópicos fundamentais como eletricidade, componentes eletrônicos e a ló
 
 ## Contents | Conteúdo
 
-- [Basic Electricity Principles](Apostila_Fundamentos_Eletricidade.md)
+- [basic_arduino_electricity.md](./basic_arduino_electricity.md)
 
 ---
 
