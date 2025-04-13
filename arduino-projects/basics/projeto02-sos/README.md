@@ -39,4 +39,4 @@ O LED pisca em um padrão que representa "SOS" (três curtos, três longos, trê
 
 ### Demonstration | Demonstração
 
-- [Watch on YouTube](https://youtu.be/EhnPLhQSbWk)
+- [Watch on YouTube](https://youtu.be/7E3pzD5Nhck)
