@@ -1,5 +1,4 @@
-# Project 05 – Traffic Control with Pedestrian Button | Projeto 05 – Semáforo com Botão de Pedestre
-
+# Project 05 – Traffic Control with Pedestrian Button | Projeto 05 – Semáforo com Botão de Pedestre (Arduino)
 ## ENGLISH
 
 This project simulates a traffic light system with pedestrian crossing control using a button. When the button is pressed, the car light turns red and the pedestrian light turns green for a few seconds. The system then resets automatically.
