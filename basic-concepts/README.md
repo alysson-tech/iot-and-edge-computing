@@ -10,7 +10,8 @@ Inclui tópicos fundamentais como eletricidade, componentes eletrônicos e a ló
 
 ## Contents | Conteúdo
 
-- [basic_arduino_electricity.md](./basic_arduino_electricity.md)
+- [Fundamentals of Arduino and Electricity](fundamentals_arduino_electricity.md)
+- [Arduino Input Logic: Pull-down, Pull-up, Debounce](arduino_input_logic.md)
 
 ---
 
