@@ -55,4 +55,4 @@ Ao pressionar o botão, o LED pisca rapidamente três vezes (S), depois lentamen
 - [projeto03_sos_botao.ino](projeto03_sos_botao.ino)
 
 ###  Video demonstration / Demonstração em vídeo  
-- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)
+- [Watch on YouTube](https://youtu.be/r1ihhAMAxuc)
