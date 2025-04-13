@@ -37,6 +37,8 @@ Initial hands-on projects with Arduino and breadboard to learn digital outputs, 
 
 Projetos iniciais com Arduino e protoboard para aprender saídas digitais, sinalização em código Morse e entrada com botão.
 
-- `Projeto01_LedFlasher.ino` – LED blinks (1 second on / 1 second off)  
-- `Projeto02_SOS.ino` – LED emits automatic SOS signal in Morse code  
-- `Projeto03_SOS_with_Button.ino` – SOS signal triggered by button press
+- `projeto01_led_fasher.ino` – LED blinks (1 second on / 1 second off)  
+- `projeto02_sos_led.ino` – LED emits automatic SOS signal in Morse code  
+- `projeto03_sos_com_botao.ino` – SOS signal triggered by button press
+- `projeto04_traffic_lights.ino` – Traffic Lights – Semáforo 
+- `projeto05_traffic_control.ino` – Traffic Control with Pedestrian Button | Semáforo com Botão de Pedestre
