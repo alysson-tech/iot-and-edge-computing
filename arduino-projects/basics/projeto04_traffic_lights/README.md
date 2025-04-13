@@ -47,9 +47,9 @@ Esse ciclo se repete indefinidamente utilizando a função `delay()`.
 ### Preview | Pré visualização
 - [projeto04_traffic_lights.png](projeto04_traffic_lights.png)
 
-###  Video demonstration / Demonstração em vídeo  
-- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)
-
 ###  Source Code / Código-fonte  
 - [projeto04_traffic_lights.ino](projeto04_traffic_lights.ino)
+
+###  Video demonstration / Demonstração em vídeo  
+- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)
 
