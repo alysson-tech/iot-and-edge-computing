@@ -36,4 +36,4 @@ O código utiliza a função `digitalWrite()` para ligar e desligar o LED em um 
 - [projeto01_led_flasher.ino](projeto01_led_flasher.ino)
 
 ### Demonstration | Demonstração  
-- [Watch on YouTube](https://youtu.be/0FgIq34k_Ug)
+- [Watch on YouTube](https://youtu.be/1OYCDtpbMc0)
