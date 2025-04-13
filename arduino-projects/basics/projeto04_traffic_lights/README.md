@@ -51,5 +51,5 @@ Esse ciclo se repete indefinidamente utilizando a função `delay()`.
 - [projeto04_traffic_lights.ino](projeto04_traffic_lights.ino)
 
 ###  Video demonstration / Demonstração em vídeo  
-- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)
+- [Watch on YouTube](https://youtu.be/9ONQ832VpIw)
 
