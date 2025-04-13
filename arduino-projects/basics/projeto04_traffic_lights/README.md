@@ -1,64 +1,55 @@
-# Project 04 - Traffic Lights 
-**Arduino Traffic Light Simulation**
+# Project 04 – Traffic Lights | Projeto 04 – Semáforo (Arduino)
 
-This is a basic Arduino project simulating a traffic light system using LEDs and timing logic. It is a fully automated version.
+## ENGLISH
 
+**Description**  
+This project simulates a basic traffic light system using Arduino, with three LEDs representing red, yellow, and green lights. It runs an automatic cycle without the use of a button or sensors.
+
+**Components**  
+- Arduino UNO  
+- 3 LEDs (Red, Yellow, Green)  
+- 3 Resistors (150Ω)  
+- Breadboard  
+- Jumper wires  
+
+**Functioning**  
+The LEDs simulate a real traffic light:  
+- Green LED turns on for 10 seconds  
+- Then Yellow LED turns on for 3 seconds  
+- Then Red LED turns on for 10 seconds  
+This cycle repeats indefinitely using the `delay()` function.
+
+> To see the physical setup of the circuit, click the link or watch the video below.
 ---
 
-## **Components**
-- Arduino UNO
-- 3 LEDs for cars: Green, Yellow, Red
-- 3 Resistors (150Ω)
-- Breadboard and jumper wires
+## PORTUGUÊS
 
+**Descrição**  
+Este projeto simula um sistema básico de semáforo utilizando Arduino, com três LEDs representando os sinais vermelho, amarelo e verde. O ciclo é automático, sem o uso de botão ou sensores.
+
+**Componentes**  
+- Arduino UNO  
+- 3 LEDs (Vermelho, Amarelo, Verde)  
+- 3 Resistores (150Ω)  
+- Protoboard  
+- Jumpers  
+
+**Funcionamento**  
+Os LEDs simulam o comportamento de um semáforo real:  
+- O LED verde acende por 10 segundos  
+- Depois o LED amarelo acende por 3 segundos  
+- Em seguida, o LED vermelho acende por 10 segundos  
+Esse ciclo se repete indefinidamente utilizando a função `delay()`.
+
+> Para ver a montagem física do circuito, clique no link ou assista ao vídeo abaixo.
+  
 ---
+### Preview | Pré visualização
+- [projeto04_traffic_lights.png](projeto04_traffic_lights.png)
 
-## **How it Works**
-The code defines an automatic light cycle:
-- Green light ON for 4 seconds
-- Yellow light ON for 2 seconds
-- Red light ON for 4 seconds  
-It loops continuously to simulate a traffic signal system.
+###  Video demonstration / Demonstração em vídeo  
+- [https://youtu.be/ZsbWcsEwNwc](https://youtu.be/jUpyvRRPfLU)
 
----
+###  Source Code / Código-fonte  
+- [projeto04_traffic_lights.ino](projeto04_traffic_lights.ino)
 
-### **Preview**
-[projeto04_traffic_lights.png](projeto04_traffic_lights.png)
-
----
-
-### **Source Code**
-[projeto04_traffic_lights.ino](projeto04_traffic_lights.ino)
-
----
-
-## **PORTUGUÊS**
-
-Este é um projeto básico de Arduino que simula um sistema de semáforo utilizando LEDs e lógica de tempo. É uma versão totalmente automática.
-
----
-
-## **Componentes**
-- Arduino UNO
-- 3 LEDs para os carros: Verde, Amarelo e Vermelho
-- 3 Resistores de 150Ω
-- Protoboard e jumpers
-
----
-
-## **Funcionamento**
-O código define um ciclo de iluminação automática:
-- Verde acende por 4 segundos
-- Amarelo acende por 2 segundos
-- Vermelho acende por 4 segundos  
-Esse ciclo se repete continuamente para simular um sistema de sinalização de trânsito.
-
----
-
-### **Prévia**
-[projeto04_traffic_lights.png](projeto04_traffic_lights.png)
-
----
-
-### **Código-fonte**
-[projeto04_traffic_lights.ino](projeto04_traffic_lights.ino)
