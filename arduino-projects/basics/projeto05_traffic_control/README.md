@@ -24,7 +24,7 @@ This project simulates a traffic light system with pedestrian crossing control u
   - Pedestrian light turns green for a few seconds  
   - Then returns to red and cycle restarts
 
-> ⚠️ During assembly, a common issue occurred: components placed on opposite sides of the protoboard’s central gap were not receiving power.  
+> During assembly, a common issue occurred: components placed on opposite sides of the protoboard’s central gap were not receiving power.  
 > The protoboard is **electrically split in the middle**.  
 > **Solution**: Use jumper wires to connect both sides or build on a single side.  
 > Discovering this resolved the problem and completed the project successfully.
@@ -59,7 +59,7 @@ Este projeto simula um sistema de semáforo com controle de travessia para pedes
   - O LED verde do pedestre acende por alguns segundos  
   - Em seguida, volta ao vermelho e o ciclo reinicia
 
-> ⚠️ Durante a montagem, ocorreu um problema comum: os componentes estavam em lados opostos da divisão central da protoboard e não recebiam alimentação corretamente.  
+> Durante a montagem, ocorreu um problema comum: os componentes estavam em lados opostos da divisão central da protoboard e não recebiam alimentação corretamente.  
 > A protoboard é **dividida eletricamente ao meio**.  
 > **Solução**: usar jumpers para unir as duas metades ou montar tudo em um único lado.  
 > Identificar esse detalhe foi essencial para o sucesso do projeto.
@@ -73,4 +73,4 @@ Este projeto simula um sistema de semáforo com controle de travessia para pedes
 - [projeto05_traffic_control.ino](projeto05_traffic_control.ino)
 
 ### Video demonstration / Demonstração em vídeo  
-- (Video will be added after re-recording in landscape format.)
+- [Watch on YouTube](https://youtu.be/4vPgPXgnzT4)
