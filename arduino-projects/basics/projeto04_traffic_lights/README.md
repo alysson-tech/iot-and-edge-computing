@@ -1,4 +1,4 @@
-# Traffic Lights – Project 04  
+# Project 04 - Traffic Lights 
 **Arduino Traffic Light Simulation**
 
 This is a basic Arduino project simulating a traffic light system using LEDs and timing logic. It is a fully automated version.
