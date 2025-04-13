@@ -13,9 +13,9 @@ When the button is pressed, it connects two terminals and sends a HIGH signal to
 - Typically mounted across the central gap of the breadboard.
 
 **Connection example**  
-- One side to 5V  
-- Other side to digital pin (e.g. D2)  
-- Pull-down resistor (10kΩ) between pin and GND
+- One side to 5V.  
+- Other side to digital pin (e.g. D2).  
+- Pull-down resistor (10kΩ) between pin and GND.
 
 **Code example**
 ```cpp
@@ -51,9 +51,9 @@ Ao ser pressionado, o botão conecta dois terminais e envia um sinal HIGH para o
 - Geralmente são montados atravessando o canal central da protoboard.
 
 **Exemplo de conexão**  
-- Um lado ligado ao 5V  
-- Outro lado ligado ao pino digital (ex: D2)  
-- Resistor de pull-down (10kΩ) entre o pino e o GND
+- Um lado ligado ao 5V.  
+- Outro lado ligado ao pino digital (ex: D2).  
+- Resistor de pull-down (10kΩ) entre o pino e o GND.
 
 **Exemplo de código**
 ```cpp
