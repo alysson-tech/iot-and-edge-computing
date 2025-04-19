@@ -60,6 +60,7 @@ iot-and-edge-computing/
 
 ---
 
-📬 Contact / Contato
+## 📬 Contact / Contato
 alyssonbrunooliveirasantos@gmail.com
 
+---
