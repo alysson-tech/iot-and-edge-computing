@@ -56,11 +56,10 @@ iot-and-edge-computing/
     ├── greenhouse-monitoring/
     ├── pet-feeder/
     └── fire-alert-system/
-
-
----
-
-📩 Contact / Contato
-Email: alyssonbrunooliveirasantos@gmail.com
+```
 
 ---
+
+📬 Contact / Contato
+alyssonbrunooliveirasantos@gmail.com
+
