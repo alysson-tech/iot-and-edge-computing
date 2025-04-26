@@ -12,12 +12,12 @@
 
 **Overview:**  
 The Medication Reminder System helps ensure that individuals remember to take their medications correctly and on time.  
-It uses basic IoT components to provide sound and/or visual alerts at scheduled times.
+It uses basic IoT components to provide continuous sound and/or visual alerts at scheduled times, requiring manual acknowledgment to confirm dose intake.
 
 **MVP Features – Phase 1:**
 
 - Scheduled alerts via buzzer or LED
-- Manual acknowledgment button (optional)
+- **Continuous alert until manual confirmation by button press**
 - Simple time setting via code (future: app or display interface)
 
 **Main Components:**
@@ -25,7 +25,7 @@ It uses basic IoT components to provide sound and/or visual alerts at scheduled 
 - Arduino UNO or ESP32  
 - Real Time Clock Module (DS3231 or DS1307) *(optional but recommended)*  
 - Buzzer or RGB LED  
-- Push button (for manual confirmation)  
+- Push button (mandatory to stop alarm)  
 - Optional: OLED Display for showing reminders
 
 **Folder Structure:**
@@ -33,7 +33,7 @@ It uses basic IoT components to provide sound and/or visual alerts at scheduled 
 - medication-reminder-system/  
   - README.md  
   - code/  
-    - medication_reminder_mvp.ino *(to be added)*  
+    - medication_reminder_mvp.ino *(added)*  
   - images/  
     - diagram *(to be added)*
 
@@ -43,12 +43,12 @@ It uses basic IoT components to provide sound and/or visual alerts at scheduled 
 
 **Visão Geral:**  
 O Sistema de Lembrete de Medicamentos auxilia na garantia de que as pessoas tomem seus medicamentos corretamente e nos horários programados.  
-Utiliza componentes básicos de IoT para fornecer alertas sonoros e/ou visuais nos horários definidos.
+Utiliza componentes básicos de IoT para fornecer alertas sonoros e/ou visuais contínuos nos horários definidos, exigindo confirmação manual para encerrar o alarme.
 
 **Funcionalidades do MVP – Fase 1:**
 
 - Alertas programados via buzzer ou LED
-- Botão de confirmação manual (opcional)
+- **Alerta contínuo até confirmação manual via botão**
 - Configuração simples de horários no código (futuro: app ou display para ajustes)
 
 **Componentes Principais:**
@@ -56,7 +56,7 @@ Utiliza componentes básicos de IoT para fornecer alertas sonoros e/ou visuais n
 - Arduino UNO ou ESP32  
 - Módulo de Relógio de Tempo Real (RTC) DS3231 ou DS1307 *(opcional, mas recomendado)*  
 - Buzzer ou LED RGB  
-- Botão de push (para confirmação manual)  
+- Botão de push (obrigatório para encerrar o alarme)  
 - Opcional: Display OLED para exibir lembretes
 
 **Estrutura de Pastas:**
@@ -64,7 +64,7 @@ Utiliza componentes básicos de IoT para fornecer alertas sonoros e/ou visuais n
 - medication-reminder-system/  
   - README.md  
   - code/  
-    - medication_reminder_mvp.ino *(a ser adicionado)*  
+    - medication_reminder_mvp.ino *(adicionado)*  
   - images/  
     - diagrama *(a ser adicionado)*
 
@@ -101,6 +101,24 @@ Copyright (c) 2025 Alysson Bruno Oliveira Santos
 O aviso de copyright acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
 
 O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRAÇÃO. EM NENHUMA HIPÓTESE OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANO OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, RESPONSABILIDADE CIVIL OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+
+---
+
+## ℹ️ Note on Button Configuration / Nota sobre a Configuração do Botão
+
+🇺🇸 In previous basic Arduino projects, button inputs were configured using external pull-down resistors.  
+In this project, we opted for using Arduino's internal pull-up resistors (`INPUT_PULLUP`) to simplify hardware wiring, improve stability, and eliminate the need for external components.
+
+This change reflects a natural evolution toward cleaner and more efficient circuit design practices.
+
+---
+
+🇧🇷 Nota sobre a Configuração do Botão
+
+Em projetos básicos anteriores de Arduino, as entradas de botão foram configuradas utilizando resistores de pull-down externos.  
+Neste projeto, optamos por utilizar os resistores internos de pull-up do Arduino (`INPUT_PULLUP`) para simplificar a fiação do hardware, melhorar a estabilidade e eliminar a necessidade de componentes externos.
+
+Essa mudança reflete uma evolução natural em direção a práticas de design de circuitos mais limpas e eficientes.
 
 ---
 
