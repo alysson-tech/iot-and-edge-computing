@@ -20,7 +20,7 @@ Jumper wires are flexible insulated conductors used to connect components on a b
 - Use the breadboard's edges to route wires cleanly.  
 - Secure wires so they don’t lift or disconnect during use.
 
-**Visual Tip**  
+**Pratical Notes**  
 Clear wiring improves not only readability, but also debugging and documentation (photos/videos).
 
 ---
@@ -35,7 +35,7 @@ Cabos jumper são fios flexíveis e isolados, usados para conectar componentes e
 - **Fêmea–Fêmea (F–F):** usado entre módulos com pinos macho.  
 - **Macho–Fêmea (M–F):** usado para conectar pinos do Arduino a cabeçalhos fêmea de sensores ou módulos.
 
-**Boas práticas**  
+**Boas Práticas**  
 - Utilize cabos curtos para uma montagem limpa e organizada.  
 - Use codificação de cores:  
   - Vermelho para 5V.  
@@ -45,5 +45,5 @@ Cabos jumper são fios flexíveis e isolados, usados para conectar componentes e
 - Use as bordas da protoboard para organizar os caminhos dos fios.  
 - Fixe os fios com firmeza para que não se soltem com o uso.
 
-**Dica visual**  
+**Notas Práticas**  
 Uma fiação clara facilita a leitura, a manutenção e a documentação do projeto (fotos e vídeos).
