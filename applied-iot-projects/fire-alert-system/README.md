@@ -34,7 +34,7 @@ It uses basic IoT components to monitor smoke (gas), and temperature, issuing au
 - fire-alert-system/  
   - README.md  
   - code/  
-    - fire_alert_system_mvp.ino *(added)*  
+    - fire_alert_system.ino *(added)*  
   - images/  
     - diagram *(to be added)*
 
