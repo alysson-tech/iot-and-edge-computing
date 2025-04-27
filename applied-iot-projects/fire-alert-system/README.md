@@ -78,15 +78,11 @@ Utiliza componentes básicos de IoT para monitorar fumaça (gás) e temperatura,
 - Activation of emergency water sprinklers
 - Automatic shutdown of gas supply
 - Sending real-time alerts to mobile apps
-- Integration with fire department notification systems
-- AI-driven early pattern recognition for fire hazards
 
 🇧🇷 Expansões futuras podem incluir:
 - Ativação de sprinklers de água de emergência
 - Desligamento automático do fornecimento de gás
 - Envio de alertas em tempo real para aplicativos móveis
-- Integração com sistemas de notificação dos bombeiros
-- Reconhecimento precoce de padrões de risco usando IA
 
 ---
 
