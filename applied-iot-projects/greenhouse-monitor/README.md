@@ -39,7 +39,6 @@ It serves as a learning base for future automation of irrigation, ventilation, a
 - Automatic irrigation with soil sensor and pump  
 - Control ventilation using fan module  
 - Display with real-time data  
-- IoT dashboard via mobile app or Firebase
 
 ---
 
@@ -79,13 +78,7 @@ Serve como base de aprendizado para automações futuras como irrigação, venti
 
 ---
 
-## 📈 Future Expansions | Expansões Futuras
-
-🇺🇸 Planned improvements include:
-- Automatic irrigation system using soil moisture sensor and water pump
-- Environmental ventilation control using a fan module
-- Real-time display of climate data
-
+## 📈 Expansões Futuras
 
 🇧🇷 Melhorias planejadas incluem:
 - Sistema de irrigação automática utilizando sensor de umidade do solo e bomba d'água
