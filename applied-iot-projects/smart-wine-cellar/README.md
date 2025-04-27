@@ -91,10 +91,10 @@ Este protótipo serve como base para futuras expansões de automação, monitora
 ## 📸 Assembly Pictures | Fotos da Montagem
 
 ### 🧩 Full Circuit Assembled
-![Circuit Overview](./images/assembly_overview.jpg)
+![Circuit Overview](./images/assembly_overview.png)
 
 ### 🔥 Alert LED Activated
-![Alert Active](./images/led_alert_on.jpg)
+![Alert Active](./images/led_alert_on.png)
 
 ---
 
