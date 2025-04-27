@@ -101,10 +101,10 @@ Este protótipo serve como base para futuras expansões de automação, monitora
 ## 🎥 Project Demonstration | Demonstração do Projeto
 
 You can watch the Smart Wine Cellar prototype in action here:  
-[▶️ Watch the video](https://www.youtube.com/SEULINKAQUI)
+[▶️ Watch the video](https://youtu.be/wXqOY7DPiaY)
 
 Você pode assistir à demonstração do protótipo da Adega Inteligente aqui:  
-[▶️ Assistir ao vídeo](https://www.youtube.com/SEULINKAQUI)
+[▶️ Assistir ao vídeo](https://youtu.be/wXqOY7DPiaY)
 
 ---
 
