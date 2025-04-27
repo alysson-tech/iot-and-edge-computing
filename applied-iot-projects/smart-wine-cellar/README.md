@@ -110,9 +110,9 @@ Você pode assistir à demonstração do protótipo da Adega Inteligente aqui:
 
 ## 📋 Experience Report | Relato de Experiência
 
-Learnings and challenges encountered during the project are available [here](./experience_report.md).
+Learnings and challenges encountered during the project are available [here](./experience-report.md).
 
-As lições e desafios encontrados durante o projeto estão disponíveis [aqui](./experience_report.md).
+As lições e desafios encontrados durante o projeto estão disponíveis [aqui](./experience-report.md).
 
 ---
 
