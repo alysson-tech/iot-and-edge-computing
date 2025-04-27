@@ -77,12 +77,20 @@ Serve como base de aprendizado para automações futuras como irrigação, venti
   - `images/`
     - `diagrama do circuito` *(a ser adicionado)*
 
-### Expansões Futuras
+---
 
-- Irrigação automática com sensor de solo e bomba  
-- Controle de ventilação com módulo de ventilador  
-- Display com dados em tempo real  
-- Painel IoT com aplicativo ou Firebase
+## 📈 Future Expansions | Expansões Futuras
+
+🇺🇸 Planned improvements include:
+- Automatic irrigation system using soil moisture sensor and water pump
+- Environmental ventilation control using a fan module
+- Real-time display of climate data
+
+
+🇧🇷 Melhorias planejadas incluem:
+- Sistema de irrigação automática utilizando sensor de umidade do solo e bomba d'água
+- Controle de ventilação ambiental utilizando módulo de ventilador
+- Exibição em tempo real dos dados climáticos
 
 ---
 
